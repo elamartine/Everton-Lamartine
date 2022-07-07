@@ -53,3 +53,12 @@ footer{
   justify-content: flex-end;
   
 }
+@media (max-width: 300px){
+  h1{
+    text-aling: center;
+  }
+  p{
+    text-aling: center;
+  }
+}
+  
